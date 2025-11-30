@@ -1,0 +1,10 @@
+Date: 05/11/2025
+Meal Name	Calories
+-------------------------
+breakfast		400
+lunch		200
+dinner		500
+-------------------------
+Total:		1100
+Average:	366.67
+STATUS: SUCCESS! You are within your daily calorie limit.
